@@ -15,4 +15,4 @@ const fibonacci = (n) => {
     console.log(arr);
 }
 
-fibonacci(2);
+fibonacci(20);
